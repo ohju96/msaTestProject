@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/msa/advertising-service" />
+    <file type="web" url="file://$PROJECT_DIR$/msa/api-gateway" />
     <file type="web" url="file://$PROJECT_DIR$/msa/eureka" />
     <file type="web" url="file://$PROJECT_DIR$/msa/news-service" />
     <file type="web" url="file://$PROJECT_DIR$/msa/review-servie" />

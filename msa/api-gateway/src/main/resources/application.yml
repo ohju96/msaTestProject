@@ -1,0 +1,46 @@
+spring:
+  application:
+    name: msa-api-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: msa-user-service
+          uri: lb://MSA-USER-SERVICE
+          predicates:
+            - Path=/api/user/**
+
+        - id: msa-news-service
+          uri: lb://MSA-NEWS-SERVICE
+          predicates:
+            - Path=/api/news/**
+
+        - id: msa-review-service
+          uri: lb://MSA-REVIEW-SERVICE
+          predicates:
+            - Path=/api/review/**
+
+        - id: msa-advertising-service
+          uri: lb://MSA-ADVERTISING-SERVICE
+          predicates:
+            - Path=/api/advertising/**
+
+  main:
+    web-application-type: reactive
+
+
+#    gateway:
+#      routes:
+#        msa-user-api:
+#          path: /api/user/**
+#        msa-news-api:
+#          path: /api/news/**
+#        msa-review-api:
+#          path: /api/review/**
+#        msa-advertising-api:
+#          path: /api/advertising/**
+
+server:
+  port: 8090
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/

@@ -4,79 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66bbe9fe-c00b-4b3a-91a3-916f226649ab" name="Changes" comment="service Setting">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/advertising-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/advertising-service/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/advertising-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/advertising-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/advertising-service/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/advertising-service/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/advertising-service/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/advertising-service/src/main/java/com/example/advertisingservice/AdvertisingServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/advertising-service/src/main/java/com/example/advertisingservice/controller/advertising.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/advertising-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/advertising-service/src/test/java/com/example/advertisingservice/AdvertisingServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/eureka/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/eureka/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/eureka/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/eureka/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/eureka/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/eureka/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/eureka/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/eureka/src/main/java/com/example/eureka/EurekaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/eureka/src/test/java/com/example/eureka/EurekaApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/news-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/news-service/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/news-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/news-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/news-service/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/news-service/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/news-service/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/news-service/src/main/java/com/example/newsservice/NewsServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/news-service/src/main/java/com/example/newsservice/controller/news.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/news-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/news-service/src/test/java/com/example/newsservice/NewsServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/review-servie/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/review-servie/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/review-servie/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/review-servie/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/review-servie/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/review-servie/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/review-servie/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/review-servie/src/main/java/com/example/reviewservie/ReviewServieApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/review-servie/src/main/java/com/example/reviewservie/controller/review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/review-servie/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/review-servie/src/test/java/com/example/reviewservie/ReviewServieApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/user-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/user-service/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/user-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/user-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/user-service/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/user-service/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/user-service/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/user-service/src/main/java/com/example/userservice/UserServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/user-service/src/main/java/com/example/userservice/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/user-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/user-service/src/test/java/com/example/userservice/UserServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/web-site/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/web-site/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/web-site/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/web-site/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/web-site/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/web-site/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/web-site/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/web-site/src/main/java/com/example/website/WebSiteApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/web-site/src/main/java/com/example/website/controller/ViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/web-site/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/web-site/src/test/java/com/example/website/WebSiteApplicationTests.java" afterDir="false" />
+    <list default="true" id="8934c352-e8a9-4b87-ba84-98f4fc555838" name="Changes" comment="service Setting">
+      <change afterPath="$PROJECT_DIR$/msa/api-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/api-gateway/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/api-gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/api-gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/api-gateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/api-gateway/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/api-gateway/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/api-gateway/src/main/java/com/example/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/api-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/api-gateway/src/test/java/com/example/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa/advertising-service/src/main/java/com/example/advertisingservice/controller/advertising.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa/advertising-service/src/main/java/com/example/advertisingservice/controller/advertising.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa/advertising-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa/advertising-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa/eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa/eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa/news-service/src/main/java/com/example/newsservice/controller/news.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa/news-service/src/main/java/com/example/newsservice/controller/news.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa/news-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa/news-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa/review-servie/src/main/java/com/example/reviewservie/controller/review.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa/review-servie/src/main/java/com/example/reviewservie/controller/review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa/review-servie/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa/review-servie/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa/user-service/src/main/java/com/example/userservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa/user-service/src/main/java/com/example/userservice/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa/user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa/user-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa/web-site/src/main/java/com/example/website/controller/ViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa/web-site/src/main/java/com/example/website/controller/ViewController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +37,9 @@
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/msa/advertising-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/msa/api-gateway">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/msa/eureka">
@@ -145,31 +100,31 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/git/msaTestProject/msa",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "File.Encoding",
-    "show.run.dashboard.notification": "false",
-    "spring.configuration.checksum": "6317a6600fe3ebbc4d4fe23de9f36b67"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/git/msaTestProject/msa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;show.run.dashboard.notification&quot;: &quot;false&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;dbc4d2099a3ce2bbd554aac3aed9e917&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.reviewservie.controller" />
@@ -177,10 +132,27 @@
       <recent name="com.example.advertisingservice.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ReviewServieApplication">
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+    <configuration name="Whole project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AdvertisingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="advertising-service.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.advertisingservice.AdvertisingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApiGatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -229,13 +201,14 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.WebSiteApplication" />
+        <item itemvalue="JUnit.Whole project" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66bbe9fe-c00b-4b3a-91a3-916f226649ab" name="Changes" comment="" />
+      <changelist id="8934c352-e8a9-4b87-ba84-98f4fc555838" name="Changes" comment="service Setting" />
       <created>1655568504501</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -244,6 +217,8 @@
       <workItem from="1655569221942" duration="4000" />
       <workItem from="1655570148515" duration="1954000" />
       <workItem from="1655572294336" duration="735000" />
+      <workItem from="1655648943999" duration="11559000" />
+      <workItem from="1655709783632" duration="947000" />
     </task>
     <servers />
   </component>
@@ -255,7 +230,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
