@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/msa/advertising-service" />
     <file type="web" url="file://$PROJECT_DIR$/msa/api-gateway" />
     <file type="web" url="file://$PROJECT_DIR$/msa/eureka" />
+    <file type="web" url="file://$PROJECT_DIR$/msa/msa-auth-server" />
     <file type="web" url="file://$PROJECT_DIR$/msa/news-service" />
     <file type="web" url="file://$PROJECT_DIR$/msa/review-servie" />
     <file type="web" url="file://$PROJECT_DIR$/msa/user-service" />

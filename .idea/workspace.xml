@@ -5,30 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8934c352-e8a9-4b87-ba84-98f4fc555838" name="Changes" comment="service Setting">
-      <change afterPath="$PROJECT_DIR$/msa/api-gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/api-gateway/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/api-gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/api-gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/api-gateway/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/api-gateway/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/api-gateway/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/api-gateway/src/main/java/com/example/apigateway/ApiGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/api-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msa/api-gateway/src/test/java/com/example/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/msa-auth-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/msa-auth-server/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/msa-auth-server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/msa-auth-server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/msa-auth-server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/msa-auth-server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/msa-auth-server/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/msa-auth-server/src/main/java/com/example/msaauthserver/MsaAuthServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/msa-auth-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msa/msa-auth-server/src/test/java/com/example/msaauthserver/MsaAuthServerApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa/advertising-service/src/main/java/com/example/advertisingservice/controller/advertising.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa/advertising-service/src/main/java/com/example/advertisingservice/controller/advertising.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa/advertising-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa/advertising-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa/eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa/eureka/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa/news-service/src/main/java/com/example/newsservice/controller/news.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa/news-service/src/main/java/com/example/newsservice/controller/news.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa/news-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa/news-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa/review-servie/src/main/java/com/example/reviewservie/controller/review.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa/review-servie/src/main/java/com/example/reviewservie/controller/review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa/review-servie/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa/review-servie/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa/user-service/src/main/java/com/example/userservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa/user-service/src/main/java/com/example/userservice/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa/user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa/user-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa/web-site/src/main/java/com/example/website/controller/ViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa/web-site/src/main/java/com/example/website/controller/ViewController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +33,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/msa/eureka">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/msa/msa-auth-server">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/msa/news-service">
@@ -112,7 +105,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/git/msaTestProject/msa&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/git/core_Study/advenced/build.gradle&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -122,7 +115,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
     &quot;show.run.dashboard.notification&quot;: &quot;false&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;dbc4d2099a3ce2bbd554aac3aed9e917&quot;
+    &quot;spring.configuration.checksum&quot;: &quot;70a466eaad9a93adccea44a7ad952151&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -132,7 +125,7 @@
       <recent name="com.example.advertisingservice.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+  <component name="RunManager" selected="Spring Boot.UserServiceApplication">
     <configuration name="Whole project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -160,6 +153,13 @@
     <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsaAuthServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-auth-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msaauthserver.MsaAuthServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -218,8 +218,19 @@
       <workItem from="1655570148515" duration="1954000" />
       <workItem from="1655572294336" duration="735000" />
       <workItem from="1655648943999" duration="11559000" />
-      <workItem from="1655709783632" duration="947000" />
+      <workItem from="1655709783632" duration="2180000" />
+      <workItem from="1655739675391" duration="1495000" />
+      <workItem from="1655784804103" duration="1316000" />
+      <workItem from="1655812264951" duration="325000" />
     </task>
+    <task id="LOCAL-00001" summary="service Setting">
+      <created>1655711122955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655711122955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
